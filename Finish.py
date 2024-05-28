@@ -172,7 +172,6 @@ upsample_stack = [
 
 out_layer = output_layer(4)
 
-# Реализуем skip connections
 x = inp_layer
 
 downsample_skips = []
